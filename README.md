@@ -28,3 +28,6 @@ the below table tells the famous locations in INDIA.
 | Chennai | Marina Beach | 3 hours|
 | Guntur | Amaravati | 3 hours|
 ---
+# Quotes
+>  Don't trust anyone believe in yourselfs . *---KPK*
+> With our thoughts we make the world . *---BUDDHA*
