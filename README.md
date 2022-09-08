@@ -18,3 +18,13 @@
 * Krishna River.
 
 [AboutMeFile](AboutMe.md)
+---
+# Famous cities in INDIA
+the below table tells the famous locations in INDIA.
+| City | Location | Time Period|
+| --- | --- | ---|
+| Agra | TajMahal | 2 hours |
+| Hyderabad | Charminar | 1 hour|
+| Chennai | Marina Beach | 3 hours|
+| Guntur | Amaravati | 3 hours|
+---
