@@ -30,4 +30,5 @@ the below table tells the famous locations in INDIA.
 ---
 # Quotes
 >  Don't trust anyone believe in yourselfs . *---KPK*
+
 > With our thoughts we make the world . *---BUDDHA*
