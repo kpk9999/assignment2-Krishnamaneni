@@ -37,6 +37,7 @@ the below table tells the famous locations in INDIA.
 # Code Snippet
 > Comments in CSS
 [StackoverFlowQuestion](https://stackoverflow.com/questions/31063966/how-should-you-comment-css#:~:text=Just%20use%20%2F*%20%2D%2D%2D%2D,to%20comment%20out%20some%20block.)
+```
 
 /*
   This is a 
@@ -48,4 +49,5 @@ body {
   line-height: 1.4;
 }
 
+```
 [SourceLink](https://css-tricks.com/snippets/css/comments-in-css/)
